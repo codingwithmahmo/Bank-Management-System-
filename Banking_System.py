@@ -1,3 +1,6 @@
+#current issues that need to be done in this code
+#when the user withdraws their amount it keeps asking them to enter the amount due to a loop or bug
+#when the user deposits their amount it keeps asking them to enter the amount due to a loop or bug
 import pickle
 import os
 import pathlib
