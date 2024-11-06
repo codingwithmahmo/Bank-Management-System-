@@ -1,3 +1,7 @@
+#there are a few issues in this code that needs to be checked also
+# validation checks
+# login page function or module
+# user authentication checks
 import pickle
 import os
 import pathlib
